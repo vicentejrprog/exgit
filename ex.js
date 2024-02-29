@@ -1,3 +1,1 @@
-quadrado = x => x * x 
-
-console.log(quadrado(5))
+// testando os exercicios do cap 2
